@@ -1,1 +1,1 @@
-# odin-recipes
+Snack recipes!
